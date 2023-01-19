@@ -187,7 +187,6 @@ const eliminarColaborador = async(req, res) => {
 
 }
 
-
 export {
     obtenerProyectos,
     nuevoProyecto,
